@@ -1,0 +1,6 @@
+darts[torch]
+streamlit
+yfinance
+scikit-learn
+matplotlib
+pandas
