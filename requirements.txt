@@ -1,6 +1,0 @@
-streamlit
-yfinance
-darts[torch]
-scikit-learn
-matplotlib
-pandas
